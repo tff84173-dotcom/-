@@ -1,0 +1,6 @@
+{
+  "name": "مساعد كاشير - فواتير ومخزون الموردين",
+  "description": "تطبيق مساعد كاشير وموردين لتسجيل الفواتير وتصدير ملفات JSON للمخزون",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
